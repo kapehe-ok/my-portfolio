@@ -1,3 +1,7 @@
+## Link to Traversy Video
+
+We build this out together in the video located on Traversy Media YouTube channel. You can find that video here.
+
 ## Getting the React App running
 
 * Run `npm install`
