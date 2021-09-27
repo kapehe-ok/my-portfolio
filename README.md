@@ -20,4 +20,4 @@ Join the [Sanity Slack community here](https://slack.sanity.io/).
 
 > If you do not have a Sanity account, be sure to create one here: [manage.sanity.io](https://manage.sanity.io/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)...
